@@ -1,0 +1,27 @@
+[
+    {
+     "id": 1,
+     "text": "Orar",
+     "marked": "true"
+    },
+    {
+     "id": 2,
+     "text": "Leer escrituras",
+     "marked": "false"
+    },
+    {
+     "id": 3,
+     "text": "Ejercitarse",
+     "marked": "false"
+    },
+    {
+     "id": 4,
+     "text": "Estudiar programacion",
+     "marked": "true"
+    },
+    {
+     "id": 5,
+     "text": "ver serie Rick &amp; Morty",
+     "marked": "false"
+    }
+   ]
