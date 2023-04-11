@@ -1,0 +1,1 @@
+Soy Oscar, soy originario del estado de Guerrero Mexico, estoy aprendiendo Javascript en Funval
